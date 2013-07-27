@@ -1,4 +1,4 @@
-android_kernel_a100
-===================
+kernel_a100
+===========
 
-Kernel source for the Acer A100 / Vangogh from CM9
+CM10.1 kernel for the Iconia A100
